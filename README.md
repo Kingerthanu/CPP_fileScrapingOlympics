@@ -1,7 +1,7 @@
 # CPP_fileScrapingOlympics
   Assignment tests knowledge of hash tables and its functions. It also tests on file parsing. Each country will have its own DataEntry stored in a container which will be our hash table using seperate chaining as our collision resolution. We have a hash function which will count the ASCII value of each character in the country's name and multiply it by its position in the string and modulus it by 17 (or this->olympicTally.size() should always be 17 in this assignment). We will have 4 main functions in the MedalsDB class which will be our hash table class: add, remove, parseDoc, and search. The DataEntry will hold: country name, year counted up to, gold medals, silver medals, and bronze medals. 
   
-  <img src="https://github.com/Kingerthanu/CPP_fileScrapingOlympics/assets/76754592/8d7df191-b013-4161-8131-b440c37c3ee4" alt="Cornstarch <3" width="95" height="99">
+  <img src="https://github.com/Kingerthanu/CPP_fileScrapingOlympics/assets/76754592/8d7df191-b013-4161-8131-b440c37c3ee4" alt="Cornstarch <3" width="95" height="129">
 
 
   This assignment will work to introduce a rehashing function which will double the tables size, and find the next prime number after this resizing and will insert the given elements.
