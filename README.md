@@ -5,6 +5,18 @@
 
 
   This assignment will work to introduce a rehashing function which will double the tables size, and find the next prime number after this resizing and will insert the given elements.
+
+
+----------------------------------------------
+<img src="https://github.com/Kingerthanu/CPP_fileScrapingOlympics/assets/76754592/062cd5ad-92eb-482e-947d-d6592a77f0a3" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_fileScrapingOlympics/assets/76754592/062cd5ad-92eb-482e-947d-d6592a77f0a3" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_fileScrapingOlympics/assets/76754592/062cd5ad-92eb-482e-947d-d6592a77f0a3" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_fileScrapingOlympics/assets/76754592/062cd5ad-92eb-482e-947d-d6592a77f0a3" alt="Cornstarch <3" width="55" height="49">
+
+**The Breakdown:**
+
+
+
+----------------------------------------------
+
+**Features:**
   
 ![giph](https://github.com/Kingerthanu/CPP_fileScrapingOlympics/assets/76754592/f5aedb7b-a9a7-4e18-913d-6d759b566280)
 
