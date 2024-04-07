@@ -18,6 +18,10 @@
 
 ----------------------------------------------
 
+<img src="https://github.com/Kingerthanu/CPP_fileScrapingOlympics/assets/76754592/b96ebf69-25be-4490-8619-bff54c50abda" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_fileScrapingOlympics/assets/76754592/b96ebf69-25be-4490-8619-bff54c50abda" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_fileScrapingOlympics/assets/76754592/b96ebf69-25be-4490-8619-bff54c50abda" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_fileScrapingOlympics/assets/76754592/b96ebf69-25be-4490-8619-bff54c50abda" alt="Cornstarch <3" width="55" height="49">
+
+
+
 **Features:**
   
 ![giph](https://github.com/Kingerthanu/CPP_fileScrapingOlympics/assets/76754592/f5aedb7b-a9a7-4e18-913d-6d759b566280)
