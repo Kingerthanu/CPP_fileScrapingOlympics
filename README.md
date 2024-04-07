@@ -13,6 +13,8 @@
 **The Breakdown:**
 
 
+<img src="https://github.com/Kingerthanu/CPP_fileScrapingOlympics/assets/76754592/40008094-f365-4afe-838c-7415fd8f07d8" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_fileScrapingOlympics/assets/76754592/40008094-f365-4afe-838c-7415fd8f07d8" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_fileScrapingOlympics/assets/76754592/40008094-f365-4afe-838c-7415fd8f07d8" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_fileScrapingOlympics/assets/76754592/40008094-f365-4afe-838c-7415fd8f07d8" alt="Cornstarch <3" width="55" height="49">
+
 
 ----------------------------------------------
 
