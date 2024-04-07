@@ -10,7 +10,28 @@
 ----------------------------------------------
 <img src="https://github.com/Kingerthanu/CPP_fileScrapingOlympics/assets/76754592/062cd5ad-92eb-482e-947d-d6592a77f0a3" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_fileScrapingOlympics/assets/76754592/062cd5ad-92eb-482e-947d-d6592a77f0a3" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_fileScrapingOlympics/assets/76754592/062cd5ad-92eb-482e-947d-d6592a77f0a3" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_fileScrapingOlympics/assets/76754592/062cd5ad-92eb-482e-947d-d6592a77f0a3" alt="Cornstarch <3" width="55" height="49">
 
+
+
+
+
 **The Breakdown:**
+
+  This Program Takes In A .txt File Including Olympic Winning Information And Uses It To Parse And Count Up The Amount Of Medals From Each Line.
+
+  The Program Utilizes A Defined DataEntry Class In Which Will Represent A Countires Current Year Total For Its Gold, Silver, And Bronze Count. 
+
+  When The Program Starts, We Will Initialize A Instance Of Our DataBase Class In Which Will Call Its Request Function In Which Will Ask The User For Continual Input Until They Say To Leave.
+
+  The User Can Read In From Our .txt Filr And From The Parsed Document We Will Interpret New Country Names In A Given Mapped Data Structure To Include Only Unique Countries.
+
+  We Can Also Add Ontop Of This New Entries Through The request Function With Our Add Function. This Allows Us To Have A Interface Where We Can Add Even More Entries, Or Even Update New Entries On The Fly During Runtime.
+
+This Program Was Very Interesting And Allowed Me To See New Ways Of Parsing Documents In C++. Also Through This Project I Learned Proper Encapsulation By Making Sure The Main Function Is Calling A Method Of The Class Instead Of Doing It Itself In Main Which Can Ensure Modularity As Well As Just Being Easier To Follow Along With. Also Using External Flags Was Interesting As Also Showed Me Ways Of Using Classes To Change External States Like Our loopFlag.
+  
+
+
+
+
 
 
 <img src="https://github.com/Kingerthanu/CPP_fileScrapingOlympics/assets/76754592/40008094-f365-4afe-838c-7415fd8f07d8" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_fileScrapingOlympics/assets/76754592/40008094-f365-4afe-838c-7415fd8f07d8" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_fileScrapingOlympics/assets/76754592/40008094-f365-4afe-838c-7415fd8f07d8" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_fileScrapingOlympics/assets/76754592/40008094-f365-4afe-838c-7415fd8f07d8" alt="Cornstarch <3" width="55" height="49">
