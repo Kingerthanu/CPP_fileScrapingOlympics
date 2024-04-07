@@ -27,3 +27,8 @@
 ![giph](https://github.com/Kingerthanu/CPP_fileScrapingOlympics/assets/76754592/f5aedb7b-a9a7-4e18-913d-6d759b566280)
 
 <img width="779" alt="image" src="https://github.com/Kingerthanu/CPP_fileScrapingOlympics/assets/76754592/1f953ee5-86fc-4b18-bd53-e7a9edeb41e2">
+
+
+
+<img src="https://github.com/Kingerthanu/CPP_fileScrapingOlympics/assets/76754592/f9aceb34-6e6b-43e9-a6ca-28233b3a0d05" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_fileScrapingOlympics/assets/76754592/f9aceb34-6e6b-43e9-a6ca-28233b3a0d05" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_fileScrapingOlympics/assets/76754592/f9aceb34-6e6b-43e9-a6ca-28233b3a0d05" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_fileScrapingOlympics/assets/76754592/f9aceb34-6e6b-43e9-a6ca-28233b3a0d05" alt="Cornstarch <3" width="55" height="49">
+
